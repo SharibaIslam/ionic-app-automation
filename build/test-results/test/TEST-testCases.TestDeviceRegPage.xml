@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testCases.TestDeviceRegPage" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-10-29T09:55:39" hostname="DESKTOP-1CKN538" time="26.075">
+  <properties/>
+  <testcase name="testUiElementVisibility" classname="testCases.TestDeviceRegPage" time="0.26"/>
+  <testcase name="testLogIn" classname="testCases.TestDeviceRegPage" time="17.476"/>
+  <testcase name="deviceRegistrationTestCase" classname="testCases.TestDeviceRegPage" time="0.323"/>
+  <testcase name="testOkButton" classname="testCases.TestDeviceRegPage" time="2.631"/>
+  <testcase name="testDeviceRegReturnHome" classname="testCases.TestDeviceRegPage" time="5.328"/>
+  <system-out><![CDATA[Response Code: http://192.168.168.25:8080/surecash-push-service/api/push/execute/push?019074766392468
+Response Code: 200
+Push value is 0Result = Tusinull, 019074766395, 2468
+Program Ran on Tue Oct 29 15:55:57 BDT 2019 by user=Tusi
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

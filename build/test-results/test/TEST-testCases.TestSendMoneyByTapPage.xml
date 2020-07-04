@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testCases.TestSendMoneyByTapPage" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-10-29T09:56:49" hostname="DESKTOP-1CKN538" time="31.408">
+  <properties/>
+  <testcase name="testMenuByTap" classname="testCases.TestSendMoneyByTapPage" time="7.191"/>
+  <testcase name="testNextButton" classname="testCases.TestSendMoneyByTapPage" time="4.921"/>
+  <testcase name="testConfirmButton" classname="testCases.TestSendMoneyByTapPage" time="6.91"/>
+  <testcase name="testSendMoneyOkButton" classname="testCases.TestSendMoneyByTapPage" time="12.344"/>
+  <testcase name="testCaseForSendMoney" classname="testCases.TestSendMoneyByTapPage" time="0.004"/>
+  <system-out><![CDATA[Context name is :WEBVIEW_com.progoti.surecash
+74766340
+60
+T300000150633
+Transaction successful.
+Result = Tusinull, 019074766395, 2468
+Program Ran on Tue Oct 29 15:57:21 BDT 2019 by user=Tusi
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

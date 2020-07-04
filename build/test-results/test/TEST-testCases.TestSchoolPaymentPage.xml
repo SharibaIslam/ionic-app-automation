@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testCases.TestSchoolPaymentPage" tests="9" skipped="0" failures="0" errors="0" timestamp="2019-10-29T09:58:10" hostname="DESKTOP-1CKN538" time="49.232">
+  <properties/>
+  <testcase name="testMenu" classname="testCases.TestSchoolPaymentPage" time="6.029"/>
+  <testcase name="testPayee" classname="testCases.TestSchoolPaymentPage" time="3.927"/>
+  <testcase name="testFirstNext" classname="testCases.TestSchoolPaymentPage" time="3.989"/>
+  <testcase name="testStdId" classname="testCases.TestSchoolPaymentPage" time="4.139"/>
+  <testcase name="testSecondNextButton" classname="testCases.TestSchoolPaymentPage" time="3.896"/>
+  <testcase name="testSchoolNext" classname="testCases.TestSchoolPaymentPage" time="3.953"/>
+  <testcase name="testConfirmButton" classname="testCases.TestSchoolPaymentPage" time="6.407"/>
+  <testcase name="testSchoolPaymentButton" classname="testCases.TestSchoolPaymentPage" time="16.62"/>
+  <testcase name="testCaseForPayment" classname="testCases.TestSchoolPaymentPage" time="0.004"/>
+  <system-out><![CDATA[Result = Tusinull, 019074766395, 2468
+Program Ran on Tue Oct 29 15:58:17 BDT 2019 by user=Tusi
+Result = Tusinull, 019074766395, 2468
+Program Ran on Tue Oct 29 15:58:25 BDT 2019 by user=Tusi
+Context name is :WEBVIEW_com.progoti.surecash
+
+
+
+
+
+150
+Transaction successful.
+Result = Tusinull, 019074766395, 2468
+Program Ran on Tue Oct 29 15:58:59 BDT 2019 by user=Tusi
+Result = Tusinull, 019074766395, 2468
+Program Ran on Tue Oct 29 15:58:59 BDT 2019 by user=Tusi
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

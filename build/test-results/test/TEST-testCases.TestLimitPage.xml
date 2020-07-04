@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testCases.TestLimitPage" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-10-29T10:00:27" hostname="DESKTOP-1CKN538" time="18.181">
+  <properties/>
+  <testcase name="testMenu" classname="testCases.TestLimitPage" time="6.328"/>
+  <testcase name="secondTabCheck" classname="testCases.TestLimitPage" time="3.937"/>
+  <testcase name="thirdTabCheck" classname="testCases.TestLimitPage" time="4.298"/>
+  <testcase name="testCaseForSendMoney" classname="testCases.TestLimitPage" time="0.3"/>
+  <testcase name="testReturnHome" classname="testCases.TestLimitPage" time="3.25"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

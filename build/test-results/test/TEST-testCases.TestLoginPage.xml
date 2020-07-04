@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testCases.TestLoginPage" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-10-29T09:55:05" hostname="DESKTOP-1CKN538" time="34.018">
+  <properties/>
+  <testcase name="testUiElementVisibility" classname="testCases.TestLoginPage" time="1.567"/>
+  <testcase name="testLogIn" classname="testCases.TestLoginPage" time="31.831"/>
+  <testcase name="testCase" classname="testCases.TestLoginPage" time="0.33"/>
+  <system-out><![CDATA[Result = Tusinull, 019074766395, 2468
+Program Ran on Tue Oct 29 15:55:09 BDT 2019 by user=Tusi
+Result = Tusinull, 019074766395, 2468
+Program Ran on Tue Oct 29 15:55:12 BDT 2019 by user=Tusi
+Response Code: http://192.168.168.25:8080/surecash-push-service/api/push/execute/push?019074766392468
+Response Code: 500
+Push value is 0Context name is :WEBVIEW_com.progoti.surecash
+Result = Tusinull, 019074766395, 2468
+Program Ran on Tue Oct 29 15:55:39 BDT 2019 by user=Tusi
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

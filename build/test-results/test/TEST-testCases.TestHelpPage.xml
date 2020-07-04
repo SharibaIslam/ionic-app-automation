@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testCases.TestHelpPage" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-10-29T10:00:45" hostname="DESKTOP-1CKN538" time="9.106">
+  <properties/>
+  <testcase name="testMenu" classname="testCases.TestHelpPage" time="5.385"/>
+  <testcase name="testCaseForTxnHistory" classname="testCases.TestHelpPage" time="0.285"/>
+  <testcase name="testReturnHome" classname="testCases.TestHelpPage" time="3.413"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

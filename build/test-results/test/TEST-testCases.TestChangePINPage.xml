@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testCases.TestChangePINPage" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-10-29T10:00:54" hostname="DESKTOP-1CKN538" time="41.282">
+  <properties/>
+  <testcase name="testMenu" classname="testCases.TestChangePINPage" time="5.44"/>
+  <testcase name="testCurrentPIN" classname="testCases.TestChangePINPage" time="3.95"/>
+  <testcase name="testNewPIN" classname="testCases.TestChangePINPage" time="3.948"/>
+  <testcase name="testNewPINRetyped" classname="testCases.TestChangePINPage" time="4.002"/>
+  <testcase name="testNext" classname="testCases.TestChangePINPage" time="15.257"/>
+  <testcase name="testChangePINOkButton" classname="testCases.TestChangePINPage" time="8.603"/>
+  <testcase name="testCaseForChangePIN" classname="testCases.TestChangePINPage" time="0.004"/>
+  <system-out><![CDATA[Result = Tusinull, 019074766395, 2468
+Program Ran on Tue Oct 29 16:01:01 BDT 2019 by user=Tusi
+Result = Tusinull, 019074766395, 2468
+Program Ran on Tue Oct 29 16:01:05 BDT 2019 by user=Tusi
+Result = Tusinull, 019074766395, 2468
+Program Ran on Tue Oct 29 16:01:09 BDT 2019 by user=Tusi
+Response Code: http://192.168.168.25:8080/surecash-push-service/api/push/execute/push?019074766392468
+Response Code: 200
+Push value is 0Your PIN has been changed successfully.
+Result = Tusinull, 019074766395, 2468
+Program Ran on Tue Oct 29 16:01:35 BDT 2019 by user=Tusi
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
